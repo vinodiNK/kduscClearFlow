@@ -1,0 +1,82 @@
+[
+  {
+    "fullName": "Chamikara Mendis",
+    "registrationNumber": "D/BIT/22/0007",
+    "intake": "Intake 39",
+    "degree": "Information Technology",
+    "clearenceDetails": [
+      {
+        "date": "2020-01-10",
+        "name": "Printer",
+        "description": "Offset Printer",
+        "value": 56000
+      },
+      {
+        "date": "2020-01-02",
+        "name": "Anonymous",
+        "description": 1,
+        "value": 60
+      }
+    ]
+  },
+  {
+    "fullName": "Nimal Silva",
+    "registrationNumber": "D/BIT/22/0024",
+    "intake": "Intake 39",
+    "degree": "Information Technology",
+    "clearenceDetails": [
+      {
+        "date": "2020-01-05",
+        "name": "Printer",
+        "description": "Offset Printer",
+        "value": 44000
+      },
+      {
+        "date": "2020-01-02",
+        "name": "Anonymous",
+        "description": 1,
+        "value": 60
+      }
+    ]
+  },
+  {
+    "fullName": "Kamal Fernando",
+    "registrationNumber": "D/BIT/22/0025",
+    "intake": "Intake 39",
+    "degree": "Information Technology",
+    "clearenceDetails": [
+      {
+        "date": "2020-01-05",
+        "name": "Printer",
+        "description": "Offset Printer",
+        "value": 55000
+      },
+      {
+        "date": "2020-01-02",
+        "name": "Anonymous",
+        "description": 1,
+        "value": 60
+      }
+    ]
+  },
+  {
+    "fullName": "Sunil Perera",
+    "registrationNumber": "D/BIT/22/0026",
+    "intake": "Intake 39",
+    "degree": "Information Technology",
+    "clearenceDetails": [
+      {
+        "date": "2020-01-05",
+        "name": "Printer",
+        "description": "Offset Printer",
+        "value": 60000
+      },
+      {
+        "date": "2020-01-02",
+        "name": "Anonymous",
+        "description": 1,
+        "value": 60
+      }
+    ]
+  }
+]
