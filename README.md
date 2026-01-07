@@ -16,13 +16,30 @@ This system enhances transparency, reduces delays, and improves communication be
 
 
 ###  Signin Page
-<img src="Client/screenshots/signin.png" width="400"/>
+<img src="Client/screenshots/signin.png" width="500"/>
 
 ###  Administrator Dashboard
-<img src="Client/screenshots/admin dashboard.png" width="400"/>
+<img src="Client/screenshots/admin dashboard.png" width="500"/>
 
+###  View All Asset Records
+<img src="Client/screenshots/view rec.png" width="500"/> 
+
+###  View Asset Details
+<img src="Client/screenshots/view record.png" width="500"/>
+
+###  Generate Report
+<img src="Client/screenshots/search.png" width="500"/>
+
+###  View PDF
+<img src="Client/screenshots/report.png" width="500"/>
+
+###  Admini Dashboard
+<img src="Client/screenshots/dashboard.png" width="500"/>
+
+###  View Admin Asset Records
+<img src="Client/screenshots/dashboard.png" width="500"/>
  
- 
+
 
 
 
