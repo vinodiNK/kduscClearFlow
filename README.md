@@ -7,10 +7,11 @@ Additionally, administrators have access to comprehensive student details and ca
 This system enhances transparency, reduces delays, and improves communication between administrators and facility heads, ultimately simplifying the clearance process for all stakeholders involved.
 
  #  Tech Stack
- ## 	React.js
- ##  Node.js
- ##  Express.js
- ##  Firebase
+ ### 	• React.js
+ ###  • Node.js
+ ###  • Express.js
+ ###  • Firebase
  
  
+
 
