@@ -28,7 +28,7 @@ This system enhances transparency, reduces delays, and improves communication be
 <img src="Client/screenshots/view record.png" width="500"/>
 
 ###  Generate Report
-<img src="Client/screenshots/search.png" width="500"/>
+<img src="Client/screenshots/serach.png" width="500"/>
 
 ###  View PDF
 <img src="Client/screenshots/report.png" width="500"/>
@@ -39,6 +39,7 @@ This system enhances transparency, reduces delays, and improves communication be
 ###  View Admin Asset Records
 <img src="Client/screenshots/dashboard.png" width="500"/>
  
+
 
 
 
