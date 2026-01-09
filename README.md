@@ -37,8 +37,9 @@ This system enhances transparency, reduces delays, and improves communication be
 <img src="Client/screenshots/dashboard.png" width="500"/>
 
 ###  View Admin Asset Records
-<img src="Client/screenshots/dashboard.png" width="500"/>
+<img src="Client/screenshots/view record.png" width="500"/>
  
+
 
 
 
